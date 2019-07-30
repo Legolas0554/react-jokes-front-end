@@ -1,0 +1,45 @@
+{
+  "name": "apollo-client-playground",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/react-components": "latest",
+    "apollo-boost": "latest",
+    "apollo-cache-inmemory": "1.6.2",
+    "apollo-client": "2.6.3",
+    "apollo-link-http": "1.5.15",
+    "apollo-link-state": "0.4.2",
+    "babel-polyfill": "6.26.0",
+    "graphql": "14.4.2",
+    "graphql-tag": "2.10.1",
+    "react": "16.8.6",
+    "react-apollo": "2.5.8",
+    "react-apollo-redux": "1.5.0",
+    "react-dom": "16.8.6",
+    "react-dropdown-select": "3.3.1",
+    "react-redux": "7.1.0",
+    "react-scripts": "3.0.1",
+    "react-select": "3.0.4",
+    "redux": "4.0.4",
+    "redux-observable": "0.17.0",
+    "rxjs": "6.5.2",
+    "rxjs-compat": "6.5.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,26 @@
+h1 {
+  padding-top: 0.5em;
+  width: 100%;
+  text-align: center;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+}
+
+.box {
+  box-shadow: -1px -1px 5px 0px rgba(0, 0, 0, 0.75);
+  height: 15em;
+  margin: 2.5em;
+}
+
+.select {
+  width: 50% !important;
+  margin-left: 20%;
+}
+
+p {
+  width: 100%;
+  text-align: center;
+}
